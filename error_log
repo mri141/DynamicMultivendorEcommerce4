@@ -1,0 +1,2 @@
+[31-Jan-2023 12:33:19 Asia/Dhaka] PHP Deprecated:  Required parameter $post_data follows optional parameter $trx_id in /home3/sobkisub/public_html/app/Http/Controllers/SSLCommerz.php on line 240
+[31-Jan-2023 12:33:19 Asia/Dhaka] PHP Deprecated:  Required parameter $post_data follows optional parameter $store_passwd in /home3/sobkisub/public_html/app/Http/Controllers/SSLCommerz.php on line 418
